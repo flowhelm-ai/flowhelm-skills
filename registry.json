@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "skills": [
+    {
+      "name": "telegram",
+      "description": "Telegram-specific message formatting, inline keyboards, media groups, polls, and chat actions.",
+      "version": "1.0.0",
+      "path": "skills/telegram",
+      "sha256": "4c0eb5ef2cb617c9154710d2e32ec584712f30bdda8015d52a7c997c6731bce9"
+    },
+    {
+      "name": "whatsapp",
+      "description": "WhatsApp-specific message formatting, reactions, media handling, read receipts, and platform conventions.",
+      "version": "1.0.0",
+      "path": "skills/whatsapp",
+      "sha256": "df64d7b6306356d0a6af23c86f2faa77f0de67221ee92f6bb7d871c642987456"
+    },
+    {
+      "name": "voice",
+      "description": "Voice message handling — transcription awareness, conversational tone, and audio-specific behavior.",
+      "version": "1.0.0",
+      "path": "skills/voice",
+      "sha256": "a696ed5e8b1834e35f9309d6830f246ecfacfce6cfeaaaaeeb52f10039587cd1"
+    },
+    {
+      "name": "browser",
+      "description": "Web browsing — page fetching, content extraction, search, and web-based research workflows.",
+      "version": "1.0.0",
+      "path": "skills/browser",
+      "sha256": "ea3042deb0e59c9165f72b6ba9b8467e25b1aef0b1c3dd5ed18029c5741f98d3"
+    },
+    {
+      "name": "google-email",
+      "description": "Gmail — email etiquette, response formatting, and full API operations via the google_workspace MCP tool.",
+      "version": "1.0.0",
+      "path": "skills/google-email",
+      "sha256": "935a83daafc283e9530f464e9a6ce8942fa03c3448b4626547126dee733f8112"
+    },
+    {
+      "name": "google-calendar",
+      "description": "Google Calendar API operations via the google_workspace MCP tool — events, agenda, scheduling, freebusy.",
+      "version": "1.0.0",
+      "path": "skills/google-calendar",
+      "sha256": "f500de59a8ead325e327f921ae646e4d58f61999ad4e23497c76c0a0ec272e7b"
+    },
+    {
+      "name": "google-contacts",
+      "description": "Google Contacts (People API) operations via the google_workspace MCP tool — search, create, update, delete contacts.",
+      "version": "1.0.0",
+      "path": "skills/google-contacts",
+      "sha256": "8db3b63a34eb6774b0c56f5d12a74f17da1574ac2c18e3bf680a8b940c44b203"
+    },
+    {
+      "name": "google-drive",
+      "description": "Google Drive API operations via the google_workspace MCP tool — files, folders, sharing, upload, permissions.",
+      "version": "1.0.0",
+      "path": "skills/google-drive",
+      "sha256": "c2088a8e4ae34287570437e5e8ffce33cb25abdc3c5239d47a4271668394b411"
+    },
+    {
+      "name": "google-tasks",
+      "description": "Google Tasks API operations via the google_workspace MCP tool — task lists, tasks, due dates, completion.",
+      "version": "1.0.0",
+      "path": "skills/google-tasks",
+      "sha256": "cb0668f3fd530e651fda745ce3240500639aa23202a1c0b0dac68db94905a380"
+    }
+  ]
+}
